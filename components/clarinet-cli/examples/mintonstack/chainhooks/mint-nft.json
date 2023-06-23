@@ -13,7 +13,7 @@
           },
         "then_that": {
             "http_post": {
-              "url": "http://localhost:3000/api/v1/wrapBtc",
+              "url": "http://localhost:3000/api/v1/mint",
               "authorization_header": "Bearer cn389ncoiwuencr"
             }
           }

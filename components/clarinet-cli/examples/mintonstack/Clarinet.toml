@@ -1,16 +1,14 @@
 [project]
-name = "cbtc"
+name = "mintnft"
 authors = []
 description = ""
 telemetry = false
 
 [[project.requirements]]
-contract_id = "SP3FBR2AGK5H9QBDH3EEN6DF8EK8JY7RX8QJ5SVTE.sip-010-trait-ft-standard"
+contract_id = "ST3QFME3CANQFQNR86TYVKQYCFT7QX4PRXM1V9W6H.sip009-nft-trait.sip009-nft-trait"
 
-[contracts.cbtc-token]
-path = "contracts/cbtc-token.clar"
-clarity_version = 1
-epoch = "2.05"
+[contracts.mint-nft]
+path = "contracts/mint-nft.clar"
 
 [repl]
 costs_version = 2
