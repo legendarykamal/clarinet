@@ -1,4 +1,4 @@
-# Using Chainhook to Mint Automatic NFTs based on bitcoin txns to a wallet address ("mr1iPkD9N3RJZZxXRk7xF9d36gffa6exNC")
+# Using Chainhook to Mint Automatic NFTs based on bitcoin txns to a wallet address (eg "mr1iPkD9N3RJZZxXRk7xF9d36gffa6exNC")
 
 A Clarity smart contract that implements the `sip009-nft-trait` trait and defines a non-fungible token (NFT) called `bitbadge`. 
 

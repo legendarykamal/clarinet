@@ -11,6 +11,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@stacks/network": "^6.5.4",
+    "@stacks/transactions": "^6.5.4",
     "express": "^4.18.2"
   }
 }
